@@ -42,5 +42,7 @@ Khoanh vùng các review trong thời gian gần đây, ta tìm được part 2 
 
 ![image](https://github.com/user-attachments/assets/5e298f38-2cab-4732-91d1-9b0c4e3e07eb)
 
+FLAG : **TASCTF{H4ppy_n3w_y3ar_2025_g00d_pl4y3r!!!!}**
+
 ### 3. Lời nói cuối
 Đây là lần đầu mình ra đề Osint nên sẽ có nhiều thiếu xót, thiếu logic. Mong nhận được sự góp ý và thông cảm từ mọi người. Trân trọng cảm ơn!!!!
