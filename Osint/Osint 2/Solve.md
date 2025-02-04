@@ -23,7 +23,7 @@ Vậy còn past 2 đâu nhỉ ????. Quay lại với Instagram, để ý vào bi
 
 ![image](https://github.com/user-attachments/assets/61c4f58a-6f1b-4f6f-b5ea-cdc26c6a7a27)
 
-Có thể nhiều bạn sẽ sử dụng Wayback Machine, nhưng cách này không ra. Ít nhất là ở thời điểm mình viết WU này, web đang bị sập. Và cũng từ bio, có vẻ WM không đúng. Ở đây, ta có 1 công cụ khác : **archive.today**. 
+Có thể nhiều bạn sẽ sử dụng Wayback Machine (theo hint cuối cùng của mình), nhưng cách này không ra. Ít nhất là ở thời điểm mình viết WU này. Và cũng từ bio, có vẻ WM không đúng. Ở đây, ta có 1 công cụ khác : **archive.today**. 
 Copy đường dẫn Instagram và sử dụng công cụ này, ta có được 1 screenshot của web: 
 
 ![image](https://github.com/user-attachments/assets/eb9dbc73-ec67-435b-8e70-2f021a1b2f71)
